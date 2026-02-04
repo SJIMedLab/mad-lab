@@ -83,9 +83,6 @@ Any use of this software in clinical or regulatory settings is the sole responsi
 
 If you use MAD-Lab in academic work, please cite the associated publication:
 
-> *Diffusion-Based Modeling of MRV Artifacts for Improving Diagnostic Reliability in Cerebral Venous Sinus Thrombosis*  
-> JAMA Network Open (under review)
-
 ---
 
 ## Contact

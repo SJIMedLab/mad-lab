@@ -16,7 +16,7 @@ The core idea is to use **3D denoising diffusion probabilistic models (DDPMs)** 
 - Interreader agreement in artifact interpretation  
 - Robustness of downstream artifact recognition models  
 - Imaging uncertainty rather than disease diagnosis  
-
+- This study was approved by the Ethics Committee of Shengjing Hospital with a waiver of informed consent. Adhering to the STARD 2015 reporting guidelines, it adopted a retrospective diagnostic study design, and all imaging data were de-identified prior to analysis
 This project focuses on *artifact modeling*, not artifact removal or automated clinical diagnosis.
 
 ---
